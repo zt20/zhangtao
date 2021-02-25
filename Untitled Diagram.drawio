@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-25T13:38:34.420Z" agent="5.0 (Windows)" etag="3RZAkJu90KEz0PGVpaWE" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-25T13:47:00.666Z" agent="5.0 (Windows)" etag="bRP14EeAEHQLEa5AEVZu" version="14.4.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1108" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -128,7 +128,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="bOeuAbXsUEYghSBZKHWV-0" value="等比例分配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="bOeuAbXsUEYghSBZKHWV-0" value="按资产大类等比例分配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="340" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bOeuAbXsUEYghSBZKHWV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="bOeuAbXsUEYghSBZKHWV-2" target="nzWNdacZB_GUiVWyVEk8-60">
